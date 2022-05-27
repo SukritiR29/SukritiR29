@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sukriti</h1>
 <h3 align="center">A frontend developer, UI/UX designer and a bookworm.</h3>
-<img align="right" src ="profile.png" width="350">
+<img align="right" src ="profile.png" width="300">
 
 
 <p align="left"> <a href="https://twitter.com/SukritiRajora" target="blank"><img src="https://img.shields.io/twitter/follow/sukritirajora?logo=twitter&style=for-the-badge" alt="sukritirajora" /></a> </p>
