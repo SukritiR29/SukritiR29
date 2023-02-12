@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **frontend projects.**
 
-- 🤝 I’m looking for help with **backend-developing.**
+- 🤝 Looking for help with **backend-developing.**
 
 - 📫 How to reach me **sukritirajora@gmail.com**
 
