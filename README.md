@@ -26,5 +26,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukritir29&show_icons=true&locale=en&layout=compact" alt="sukritir29" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukritir29&show_icons=true&locale=en" alt="sukritir29" /></p>
+
 
