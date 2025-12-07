@@ -3,7 +3,7 @@
 🤝 I am looking to collaborate on automating projects to make testing process smooth.<br> 
 🆘 I am looking for help with AI and its seamless integration with web apps<br> 
 📚 I am currently learning selenium.<br> 
-💬 Ask me about playwright, react, VUe, next.js, Node<br> 
+💬 Ask me about Playwright, K6, API Testing, Postman, Test Strategy, Test Design, Regression Automation<br> 
 📖 Fun fact: I am a book worm and a huge animal lover 🐾
 
 
